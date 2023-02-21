@@ -23,4 +23,4 @@ jobs:
         with:
           push: true
           context: "{{defaultContext}}:server"
-          tags: user/app:latest
+          tags: scrip/quete1902:latest
